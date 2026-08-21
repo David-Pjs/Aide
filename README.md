@@ -1,4 +1,5 @@
 # Aide
+[![CI](https://github.com/David-Pjs/Aide/actions/workflows/ci.yml/badge.svg)](https://github.com/David-Pjs/Aide/actions/workflows/ci.yml)
 
 **A voice-native work-and-pay platform for blind and visually impaired workers in Nigeria.**
 
@@ -7,7 +8,7 @@ A worker talks; Aide does the rest — finds jobs, runs a spoken skill assessmen
 real bank account, confirms incoming pay, and reads the balance back aloud. No screen
 required.
 
-[![CI](https://github.com/David-Pjs/Aide/actions/workflows/ci.yml/badge.svg)](https://github.com/David-Pjs/Aide/actions/workflows/ci.yml)
+
 
 [**Live demo →** aide-ng.vercel.app](https://aide-ng.vercel.app) · Open in Chrome and just talk.
 
